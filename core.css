@@ -6,6 +6,9 @@
   --third-black: #171b19;
   --fourth-black: #1a1f1d;
 }
+html:root {
+    --font-display: var(--font-primary);
+}
 /* Настройки в окне. */
 :root {
     --width2: 45%;
