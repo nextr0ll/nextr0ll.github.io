@@ -9,6 +9,7 @@
 html:root {
     --font-display: var(--font-primary);
 }
+
 /* Настройки в окне. */
 :root {
     --width2: 45%;
