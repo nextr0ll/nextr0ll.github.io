@@ -2127,3 +2127,15 @@ html:root {
     position:absolute;
     left:90%;
 }
+
+/* Suggested changes */
+
+.reaction-1hd86g.reactionMe-wv5HKu {
+   border-color: rgb(var(--rgb));
+}
+/* Adds the --rgb color the our reactions instead of an odd blue. */
+
+.grid-1nZz7S {
+    border-radius: 5px;
+}
+/* Correct embed messages where the colored border is overlaped by the text-box. */
