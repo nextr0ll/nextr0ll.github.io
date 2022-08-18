@@ -651,7 +651,7 @@
   .userPopout-3XzG_A, 
   .menu-3sdvDG ,
   .drawerSizingWrapper-17Mss4, 
-  .messagesPopoutWrap-1MQ1bW,
+  .messagesPopoutWrap-3zryHW,
   .container-3XJ8ns,
   .container-2x5lvQ{
     border:1px solid rgba(var(--rgb), 1);
@@ -790,7 +790,7 @@
   .button-1-5Aqk:hover{
     background: rgba(var(--rgb), .2)!important;
   }
-  .recentMentionsPopout-3rCiI6,.messagesPopoutWrap-1MQ1bW {
+  .recentMentionsPopout-3rCiI6,.messagesPopoutWrap-3zryHW {
     width: 35vw;
     max-width: 700px;
     min-width: 600px;
@@ -856,7 +856,7 @@
   .messageGroupWrapper-o-Zw7G .cozy-3raOZG.wrapper-2a6GCs{
     margin-left: 55px;
   }
-  .messagesPopoutWrap-1MQ1bW{
+  .messagesPopoutWrap-3zryHW {
     max-height: 900px!important;
   }
   .jumpButton-3DTcS_{
